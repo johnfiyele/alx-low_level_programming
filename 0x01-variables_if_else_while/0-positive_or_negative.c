@@ -1,13 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
-*main -> to assign a random number to the variable n each time it is executed and prints out
-*based on a condition
-*Return:always return 0
-*
-*/
+ * main - entry point
+ *
+ * Return: always returns 0
+ */
 int main(void)
 {
 int n;
