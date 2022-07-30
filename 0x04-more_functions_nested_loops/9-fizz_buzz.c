@@ -10,7 +10,7 @@
  * Return: Always 0 (Success)
  */
 
-int main(void)
+void fizz_buzz(void)
 {
 	int num;
 
